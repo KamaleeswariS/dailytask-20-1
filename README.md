@@ -1,1 +1,1 @@
-Promise task 3 is about fetch the data from the Rest Countries
+Promise Task 1 is about fetch data from API
